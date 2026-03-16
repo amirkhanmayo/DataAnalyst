@@ -1,4 +1,8 @@
 This is my first test to upload file on Github using CMD.
 This is my 2nd line after publishing the file to web.
 This is 3rd line from another branch i.e. tti (Technical Training Institute).
+<<<<<<< HEAD
 This is 4th line from another branch i.e. ttiw (Technical Training Institute) created from web and fetched in local using cmd.
+=======
+This is 4th line from tti but 5th line overall from all branches.
+>>>>>>> tti
